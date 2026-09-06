@@ -1,4 +1,4 @@
-## Hi, I'm Justangel, and I'm working on Noctra, a mobile app for horror movie fans. 👻
+## Hi, I'm JustAngel, and I'm working on Noctra, a mobile app for horror movie fans. 👻
 
 Noctra is a horror movie catalog where people can discover what to watch, explore different horror subgenres, rate movies, leave comments, and find new recommendations through Movies of the Week.
 
