@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Justangel, and I'm working on Noctra, a mobile app for horror movie fans. 👻
+
+Noctra is a horror movie catalog where people can discover what to watch, explore different horror subgenres, rate movies, leave comments, and find new recommendations through Movies of the Week.
+
+I'm building Noctra to make discovering your next horror movie easier - whether you're into slashers, psychological horror, supernatural movies, found footage, or something much darker. 🩸
 
 <!--
 **justangel89/justangel89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
